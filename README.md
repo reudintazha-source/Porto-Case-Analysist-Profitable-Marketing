@@ -57,19 +57,6 @@ Berdasarkan tampilan keseluruhan data (*All Segments*):
 
 ---
 
-## 📸 Tangkapan Layar Dashboard
-1. **Ringkasan KPI & Matriks Loss-Making Orders per Brand**
-   ![Dashboard Overview](assets/dashboard_overview.png)
-
-2. **Analisis Cost-to-Profit Ratio per Brand & Region**
-   ![Marketing Efficiency Brand & Region](Porto-Case-Analysist-Profitable-Marketing
-/Marketing Efficiency Brand & Region.png)
-
-3. **Analisis Cost-to-Profit Ratio per Country**
-   ![Marketing Efficiency Country](assets/marketing_country.png)
-
----
-
 ## 🚀 Cara Menggunakan File
 1. Unduh file `.xlsx` dari repositori ini.
 2. Buka menggunakan **Microsoft Excel** (disarankan versi 2019 ke atas atau Microsoft 365).
